@@ -69,17 +69,17 @@ You can use the website to generate badges: https://shields.io/
 ---
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkumarkashyap5&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkumarkashyap5&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
     alt="shivamkumarkashyap5" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumarkashyap5&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumarkashyap5&show_icons=true&theme=dark&hide_border=true&locale=en"
     alt="shivamkumarkashyap5" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumarkashyap5&" alt="shivamkumarkashyap5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumarkashyap5&theme=dark&hide_border=true" alt="shivamkumarkashyap5" /></p>
 
 <br>
 
